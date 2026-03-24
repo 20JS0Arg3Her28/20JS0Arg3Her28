@@ -45,12 +45,6 @@ Me gusta trabajar en proyectos que combinan análisis de datos, modelos predicti
 <table border="0">
   <tr>
     <td width="50%">
-      <a href="https://github.com/20JS0Arg3Her28/space-portafolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=space-portafolio&theme=radical" />
-      </a>
-      <p align="center"><i>Portafolio interactivo con Next.js</i></p>
-    </td>
-    <td width="50%">
       <a href="https://github.com/20JS0Arg3Her28/data-science">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=data-science&theme=radical" />
       </a>
@@ -63,12 +57,6 @@ Me gusta trabajar en proyectos que combinan análisis de datos, modelos predicti
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=DeepLearning&theme=radical" />
       </a>
       <p align="center"><i>Implementaciones de redes neuronales</i></p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/20JS0Arg3Her28/portafolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=portafolio&theme=radical" />
-      </a>
-      <p align="center"><i>Static site con Vite + React 19</i></p>
     </td>
   </tr>
 </table>
