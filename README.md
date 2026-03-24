@@ -1,55 +1,86 @@
-# ¡Hola, soy Gustixa!
-Apasionado por la tecnología y el conocimiento, me enfoco principalmente en **Machine Learning (ML)**, **Data Science (DS)** y me encanta explorar el mundo de la **Inteligencia Artificial (IA)**. Me gusta trabajar en proyectos que combinan análisis de datos, modelos predictivos y herramientas que realmente aporten valor.
+# ¡Hola, soy Samuel (20JS0Arg3Her28)! 👋
 
-<!-- Redes -->
-[![GitHub Followers](https://img.shields.io/github/followers/Gustixa.svg?style=social&label=Followers)](https://github.com/Gustixa?tab=followers)
+Apasionado por la tecnología y el conocimiento, me enfoco principalmente en **Machine Learning (ML)**, **Data Science (DS)** y me encanta explorar el mundo de la **Inteligencia Artificial (IA)**. 
+
+Me gusta trabajar en proyectos que combinan análisis de datos, modelos predictivos y herramientas que realmente aporten valor. Actualmente estoy desarrollando mi tesis sobre sistemas **RAG (Retrieval-Augmented Generation)**.
+
+---
+
+### 🌐 Redes y Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-argueta-1b0480200/)
+[![GitHub Followers](https://img.shields.io/github/followers/20JS0Arg3Her28.svg?style=social&label=Followers)](https://github.com/20JS0Arg3Her28?tab=followers)
 
 ---
 
-### GitHub Stats
-
-![Gustixa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustixa&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustixa&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustixa&layout=compact&theme=radical&langs_count=10)](https://github.com/Gustixa)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Gustixa&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 Mis Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=20JS0Arg3Her28&show_icons=true&theme=radical" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=20JS0Arg3Her28&theme=radical" alt="Streak" />
+</p>
 
 ---
 
-### Lenguajes que manejo
+### 🛠️ Tecnologías y Herramientas
 
+**Lenguajes:**
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
-### Tecnologías y herramientas
-
+**Frameworks & DB:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-
-### Proyectos destacados
-
-<a href="https://github.com/Gustixa/MD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustixa&repo=MD&theme=onedark&cache_seconds=1" />
-</a>
-
-
-<a href="https://github.com/Gustixa/data_science">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustixa&repo=data_science&theme=onedark" />
-</a>
-
-<a href="https://github.com/Gustixa/DL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustixa&repo=DL&theme=onedark" />
-</a>
-
----
-
-### Actualmente aprendiendo
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Herramientas:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/20JS0Arg3Her28/space-portafolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=space-portafolio&theme=radical" />
+      </a>
+      <p align="center"><i>Portafolio interactivo con Next.js</i></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/20JS0Arg3Her28/data-science">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=data-science&theme=radical" />
+      </a>
+      <p align="center"><i>Análisis y modelos predictivos</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/20JS0Arg3Her28/DeepLearning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=DeepLearning&theme=radical" />
+      </a>
+      <p align="center"><i>Implementaciones de redes neuronales</i></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/20JS0Arg3Her28/portafolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=20JS0Arg3Her28&repo=portafolio&theme=radical" />
+      </a>
+      <p align="center"><i>Static site con Vite + React 19</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📚 Actualmente aprendiendo
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud-Infrastructure-blue?style=for-the-badge)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=20JS0Arg3Her28&theme=radical&column=4" />
+</p>
